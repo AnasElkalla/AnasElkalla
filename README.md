@@ -21,6 +21,6 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnasElkalla&show_icons=true&theme=codeSTACKr#gh-dark-mode-only" />
 </a>
 
-<a href="https://github.com/AnasElkalla/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasElkalla" />
+<a href="https://github.com/AnasElkalla/github-readme-stats#gh-codeSTACKr-mode-only">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasElkalla&theme=codeSTACKr#gh-dark-mode-only" />
 </a>
