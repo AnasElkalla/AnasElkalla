@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasElkalla)](https://github.com/AnasElkalla/github-readme-stats) -->
 [![Anurag's GitHub stats-codeSTACKr](https://github-readme-stats.vercel.app/api?username=AnasElkalla&show_icons=true&theme=codeSTACKr#gh-dark-mode-only)](https://github.com/AnasElkalla/github-readme-stats#gh-codeSTACKr-mode-only)
+
+[![Readme Card-codeSTACKr ](https://github-readme-stats.vercel.app/api/pin/?username=AnasElkalla&repo=github-readme-stats)](https://github.com/AnasElkalla/github-readme-stats)
