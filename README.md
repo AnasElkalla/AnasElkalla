@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ![mixkit-exhausted-man-in-front-of-a-computer-with-his-head-69-original](https://user-images.githubusercontent.com/79075490/209858649-68f64751-98c4-413d-9d86-45530dca1ec3.png)
 
 
+[![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasElkalla)](https://github.com/AnasElkalla/github-readme-stats)
