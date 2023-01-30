@@ -1,3 +1,7 @@
+<link rel="stylesheet" href="https://kit.fontawesome.com/b62766c4e7.css" crossorigin="anonymous">
+
+<link rel="stylesheet" href="style.css">
+
 <div class="shadow"></div>
     <header>
       <h1>I am <span>Anas Elkalla</span> Welcome to my profile</h1>
