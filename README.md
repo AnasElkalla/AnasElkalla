@@ -1,6 +1,6 @@
 
 <link href="style.css" rel="stylesheet" >
-
+<body>
 <div class="shadow"></div>
     <header>
       <h1>I am <span>Anas Elkalla</span> Welcome to my profile</h1>
@@ -114,3 +114,4 @@
         <li></li>
       </ul>
     </footer>
+</body>
