@@ -26,7 +26,6 @@
 <div class="css">
 
 <span>CSS Projects</span>
-
   - [product card
     component](https://github.com/AnasElkalla/product-preview-card-component-main)
   - [leon template](https://github.com/AnasElkalla/leon-template)
@@ -54,4 +53,4 @@
   - [![codepen](https://cdn-icons-png.flaticon.com/512/1377/1377243.png)](https://codepen.io/anaselkalla)
   - [![instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/anas_elkalla/)
   - [![twitter](https://cdn-icons-png.flaticon.com/512/3256/3256013.png)](https://twitter.com/anaselkala)
-  
+  <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" title="https://www.linkedin.com/in/anas-elkalla-8b0432111/" style="width:50px">
