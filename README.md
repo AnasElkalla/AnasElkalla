@@ -14,7 +14,7 @@
     </main>
     <div class="skills">
       <span>Skills</span>
-      <ul>
+      <ul style="list-style:none">
         <li>
           <img
             src="images/html-5.png"
@@ -38,7 +38,7 @@
     <div class="projects">
       <div class="css">
         <span>CSS Projects</span>
-        <ul>
+        <ul style="list-style:none">
           <li>
             <a
               href="https://github.com/AnasElkalla/product-preview-card-component-main"
@@ -63,7 +63,7 @@
       </div>
       <div class="js">
         <span>Javascript Projects</span>
-        <ul>
+        <ul style="list-style:none">
           <li>
             <a href="https://github.com/AnasElkalla/hammerURL">Hammer URL</a>
           </li>
@@ -81,7 +81,7 @@
       </div>
     </div>
     <footer>
-      <ul>
+      <ul style="list-style:none">
         <li>
           <a href="https://www.linkedin.com/in/anas-elkalla-8b0432111/"
             ><img
