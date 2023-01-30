@@ -1,22 +1,46 @@
-### Hi there 👋
-### I am Anas Elkalla 😄
-## Welcome to my profile 
-<!--
-**AnasElkalla/AnasElkalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+::: {.shadow}
+:::
 
-Here are some ideas to get you started:
+I am Anas Elkalla Welcome to my profile
+=======================================
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnasElkalla)](https://github.com/AnasElkalla/github-readme-stats) -->
-![mixkit-exhausted-man-in-front-of-a-computer-with-his-head-69-original](https://user-images.githubusercontent.com/79075490/209858649-68f64751-98c4-413d-9d86-45530dca1ec3.png)
+::: {role="main"}
+![programmer](images/giphy.gif){.programmer}
+:::
 
+::: {.skills}
+Skills
 
+-   ![html](images/html-5.png)
+-   ![css](images/css-3.png)
+-   ![javascript](images/js.png)
+:::
 
+::: {.projects}
+::: {.css}
+CSS Projects
+
+-   [product card
+    component](https://github.com/AnasElkalla/product-preview-card-component-main)
+-   [leon template](https://github.com/AnasElkalla/leon-template)
+-   [Candle](https://github.com/AnasElkalla/candle)
+-   [Rotating Planet
+    Earth](https://github.com/AnasElkalla/rotatingEarthPlanet)
+:::
+
+::: {.js}
+Javascript Projects
+
+-   [Hammer URL](https://github.com/AnasElkalla/hammerURL)
+-   [Border Radius
+    Generator](https://github.com/AnasElkalla/border-radius-generator)
+-   [Custom Color
+    palette](https://github.com/AnasElkalla/Custom-Color-palette)
+:::
+:::
+
+-   [![linkedin](https://cdn-icons-png.flaticon.com/512/3536/3536505.png)](https://www.linkedin.com/in/anas-elkalla-8b0432111/)
+-   [![codepen](https://cdn-icons-png.flaticon.com/512/1377/1377243.png)](https://codepen.io/anaselkalla)
+-   [![instagram](https://cdn-icons-png.flaticon.com/512/2111/2111463.png)](https://www.instagram.com/anas_elkalla/)
+-   [![twitter](https://cdn-icons-png.flaticon.com/512/3256/3256013.png)](https://twitter.com/anaselkala)
+-   
