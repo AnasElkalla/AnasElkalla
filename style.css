@@ -131,5 +131,5 @@ footer li {
 footer li:hover {
   transform: scale(1.2);
 }
-footer img{
+footer img[alt="linkedin"]{
   width:50px}
