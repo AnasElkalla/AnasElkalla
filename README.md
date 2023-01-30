@@ -88,22 +88,19 @@
               alt="linkedin"
                   style="width:50px"
           /></a>
-        </li>
-        <li>
+        </li><li>
           <a href="https://codepen.io/anaselkalla"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/1377/1377243.png"
               alt="codepen" style="width:50px"
           /></a>
-        </li>
-        <li>
+        </li><li>
           <a href="https://www.instagram.com/anas_elkalla/"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
               alt="instagram"  style="width:50px"
           /></a>
-        </li>
-        <li>
+        </li><li>
           <a href="https://twitter.com/anaselkala"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png"
