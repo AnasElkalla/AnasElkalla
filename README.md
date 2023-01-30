@@ -1,5 +1,5 @@
 
-<link href="style.css" rel="stylesheet" >
+<link href="/style.css" rel="stylesheet" >
 <body>
 <div class="shadow"></div>
     <header>
