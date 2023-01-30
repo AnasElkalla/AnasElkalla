@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="https://kit.fontawesome.com/b62766c4e7.css" crossorigin="anonymous">
+<style>
 @import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
 
 * {
@@ -134,6 +135,7 @@ footer li:hover {
 }
 footer img[alt="linkedin"]{
   width:50px}
+  </style>
 <body>
 <div class="shadow"></div>
     <header>
