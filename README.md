@@ -1,5 +1,5 @@
-
-<link href="/style.css" rel="stylesheet" >
+<link rel="stylesheet" href="https://kit.fontawesome.com/b62766c4e7.css" crossorigin="anonymous">
+<link href="style.css" rel="stylesheet" >
 <body>
 <div class="shadow"></div>
     <header>
