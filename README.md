@@ -111,7 +111,6 @@
               alt="twitter"  style="width:50px"
           /></a>
         </li>
-        <li></li>
       </ul>
     </footer>
 </body>
