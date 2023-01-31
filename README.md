@@ -14,26 +14,22 @@
     </main>
     <div class="skills" align="center">
       ## 🛠 <span>Skills</span>
-      <ul listStyle="none">
-        <li>
+    
           <img
             src="images/html-5.png"
             alt="html"
           />
-        </li>
-        <li>
+        
           <img
             src="images/css-3.png"
             alt="css"
           />
-        </li>
-        <li>
+        
           <img
             src="images/js.png"
             alt="javascript"
           />
-        </li>
-      </ul>
+     
     </div>
     <div class="projects">
       <div class="css">
