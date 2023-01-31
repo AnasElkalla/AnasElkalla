@@ -3,8 +3,8 @@
 <div class="shadow"></div>
 
       <h1 align="center">I am Anas Elkalla</h1>
-        <h2 align="center"> Welcome to my profile</h2>
-   <hr>
+        <h2 align="center"> Welcome to my profile</h2><hr>
+   
     <div align="center">
       <img
         class="programmer"
