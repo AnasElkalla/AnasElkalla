@@ -13,7 +13,7 @@
     </main>
     <div class="skills">
       ## 🛠 <span>Skills</span>
-      <ul style="list-style:none">
+      <ul style="list-style:none" align="center">
         <li>
           <img
             src="images/html-5.png"
