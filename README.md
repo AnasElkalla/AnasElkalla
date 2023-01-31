@@ -13,24 +13,16 @@
       />
     </main>
     <div class="skills" align="center">
-      ## 🛠 <span>Skills</span>
-    
-          <img
+      ## 🛠 <span>Skills</span<img
             src="images/html-5.png"
             alt="html"
-          />
-        
-          <img
+          /><img
             src="images/css-3.png"
             alt="css"
-          />
-        
-          <img
+          /><img
             src="images/js.png"
             alt="javascript"
-          />
-     
-    </div>
+          /></div>
     <div class="projects">
       <div class="css">
         <span>CSS Projects</span>
