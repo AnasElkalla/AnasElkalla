@@ -1,15 +1,12 @@
-      
-      
-      
-      
+       
 <body>
       
       <header>
         <h1 align="center">I am Anas Elkalla</h1>
         <h2 align="center"> Welcome to my profile</h2>
-        </header>
+      </header>
         
-        <div align="center">
+    <div align="center">
       <img
         class="programmer"
         src="images/giphy.gif"
@@ -91,4 +88,7 @@
               alt="twitter"  style="width:50px"
           /></a></div>
 
-      </body>
+</body>    
+      
+      
+ 
