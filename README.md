@@ -4,14 +4,13 @@
     <header>
       <h1 align="center">I am <span>Anas Elkalla</span> Welcome to my profile</h1>
     </header>
-    <main            align="center"
->
+    <div align="center">
       <img
         class="programmer"
         src="images/giphy.gif"
         alt="programmer"
       />
-    </main>
+    </div>
     <div class="skills" align="center">
         ## 🛠 <span>Skills</span><img
             src="images/html-5.png"
