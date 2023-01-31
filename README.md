@@ -6,14 +6,15 @@
     </header>
     <main>
       <img
+           align="center"
         class="programmer"
         src="images/giphy.gif"
         alt="programmer"
       />
     </main>
-    <div class="skills">
+    <div class="skills" align="center">
       ## 🛠 <span>Skills</span>
-      <ul style="list-style:none" align="center">
+      <ul style="list-style:none" >
         <li>
           <img
             src="images/html-5.png"
