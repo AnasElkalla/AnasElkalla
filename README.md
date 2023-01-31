@@ -1,11 +1,6 @@
-
-<body>
-<div class="shadow"></div>
-
       <h1 align="center">I am Anas Elkalla</h1>
-        <h2 align="center"> Welcome to my profile</h2><hr>
-   
-    <div align="center">
+      <h2 align="center"> Welcome to my profile</h2>
+      <div align="center">
       <img
         class="programmer"
         src="images/giphy.gif"
@@ -86,4 +81,4 @@
               src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png"
               alt="twitter"  style="width:50px"
           /></a></div>
-</body>
+
