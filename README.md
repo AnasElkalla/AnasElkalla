@@ -2,7 +2,8 @@
 <body>
 <div class="shadow"></div>
     <header>
-      <h1 align="center" color=yellow>I am <span>Anas Elkalla</span> Welcome to my profile</h1>
+      <h1 align="center">I am Anas Elkalla</h1>
+        <h2 align="center"> Welcome to my profile</h2>
     </header>
     <div align="center">
       <img
