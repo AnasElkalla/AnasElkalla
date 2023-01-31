@@ -1,12 +1,8 @@
        
 <body>
-      
-      <header>
         <h1 align="center">I am Anas Elkalla</h1>
-        <h2 align="center"> Welcome to my profile</h2>
-      </header>
-        
-    <div align="center">
+          <h2 align="center"> Welcome to my profile</h2>
+       <div align="center">
       <img
         class="programmer"
         src="images/giphy.gif"
@@ -14,7 +10,8 @@
       />
     </div>
     <div class="skills" align="center">
-        ## 🛠 <span>Skills</span><img
+           <h1># 🛠 #</h1>
+        <h1>Skills</h1><img
             src="images/html-5.png"
             alt="html"
           /><img
