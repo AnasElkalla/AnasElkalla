@@ -67,34 +67,22 @@
         </ul>
       </div>
     </div>
-    <footer>
-      <ul style="list-style:none">
-        <li>
-          <a href="https://www.linkedin.com/in/anas-elkalla-8b0432111/"
+    <footer align="center"><a href="https://www.linkedin.com/in/anas-elkalla-8b0432111/"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"
               alt="linkedin"
                   style="width:50px"
-          /></a>
-        </li><li>
-          <a href="https://codepen.io/anaselkalla"
+          /></a><a href="https://codepen.io/anaselkalla"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/1377/1377243.png"
               alt="codepen" style="width:50px"
-          /></a>
-        </li><li>
-          <a href="https://www.instagram.com/anas_elkalla/"
+          /></a><a href="https://www.instagram.com/anas_elkalla/"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png"
               alt="instagram"  style="width:50px"
-          /></a>
-        </li><li>
-          <a href="https://twitter.com/anaselkala"
+          /></a><a href="https://twitter.com/anaselkala"
             ><img
               src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png"
               alt="twitter"  style="width:50px"
-          /></a>
-        </li>
-      </ul>
-    </footer>
+          /></a></footer>
 </body>
