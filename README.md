@@ -4,9 +4,9 @@
     <header>
       <h1 align="center">I am <span>Anas Elkalla</span> Welcome to my profile</h1>
     </header>
-    <main>
+    <main            align="center"
+>
       <img
-           align="center"
         class="programmer"
         src="images/giphy.gif"
         alt="programmer"
