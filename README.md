@@ -12,7 +12,7 @@
       />
     </main>
     <div class="skills">
-      <span>Skills</span>
+      ## 🛠 <span>Skills</span>
       <ul style="list-style:none">
         <li>
           <img
