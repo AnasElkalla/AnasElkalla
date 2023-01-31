@@ -2,7 +2,7 @@
 <body>
 <div class="shadow"></div>
     <header>
-      <h1 style="align-text:center">I am <span>Anas Elkalla</span> Welcome to my profile</h1>
+      <h1 align="center">I am <span>Anas Elkalla</span> Welcome to my profile</h1>
     </header>
     <main>
       <img
