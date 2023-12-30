@@ -63,6 +63,11 @@
               >Custom Color palette
             </a>
           </li>
+          <li>
+            <a href="https://github.com/AnasElkalla/Zoom"
+              >Zoom Images
+            </a>
+          </li>
         </ul>
       </div>
     </div>
